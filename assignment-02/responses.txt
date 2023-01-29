@@ -1,1 +1,3 @@
-
+A directory is a file group, it is also path to a file.
+VCS are useful because it tracks the changes you make to a file and you can see previous versions.
+My favorite artistic medium is graphic design because I love using photoshop and being able to learn many things to do on photoshop.
