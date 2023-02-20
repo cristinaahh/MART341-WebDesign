@@ -1,4 +1,4 @@
-[screenshot](./images/screenshot.jpg)
+[screenshot](./images/screenshot.png)
 
 Tell me about a website yo visted using the Wayback Machine. What year is it from?
 How is the older version different from the current version today in terms of its overall design?
