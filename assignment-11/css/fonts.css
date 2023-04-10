@@ -1,0 +1,34 @@
+@font-face (
+  font-family:"NewYork";
+  src: url('../fonts/NewYork.tff') format('truetype');
+  font-style: normal;
+  )
+
+@font-face (
+  font-family:"NewYork";
+  src: url('../fonts/NewYorkItalic.tff') format('truetype');    font-style: normal;
+  )
+
+@font-face (
+  font-family:"Arial";
+  src: url('../fonts/Arial Narrow Bold Italic.tff') format('truetype');
+  font-weight: 700;
+  )
+
+@font-face (
+  font-family:"Arial";
+  src: url('../fonts/Arial Narrow Bold.tff') format('truetype');
+  font-weight: 700;
+  )
+
+@font-face (
+  font-family:"Arial";
+  src: url('../fonts/Arial Narrow Italic.tff') format('truetype');
+  font-style: normal;
+  )
+
+@font-face (
+  font-family:"Arial";
+  src: url('../fonts/Arial Narrow.tff') format('truetype');
+  font-style: normal;
+  )
