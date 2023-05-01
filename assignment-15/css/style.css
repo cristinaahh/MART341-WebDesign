@@ -1,0 +1,49 @@
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #edede9;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    background-color: #52796f;
+    margin-top: 0;
+    height: 6em;
+    width: 99%;
+    text-align: right;
+    font-family: Aqua;
+    padding-right: 3em;
+}
+
+.menu-item a {
+    color: #2f3e46;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #2f3e46;
+    text-decoration: #edede9;
+    text: #edede9
+}
+
+.menu-text:hover {
+    color: #edede9
+}
+
+h1{
+    color: #52796f;
+    font-family: aqua.ttf;
+    font-size: 60px;
+    letter-spacing: 0.1em;
+}
+
+h2{
+    color: #2f3e46
+    font-family: RobotoSlab-Thin.ttf;
+    font-size: 40px;
+}
