@@ -1,0 +1,10 @@
+@font-face (
+  font-family:"Aqua";
+  src: url('../fonts/aqua.tff') format('truetype');
+  font-style: normal;
+  )
+
+@font-face (
+  font-family:"Roboto Slab";
+  src: url('../fonts/RobotoSlab-Thin.tff') format('truetype');    font-style: normal;
+  )
